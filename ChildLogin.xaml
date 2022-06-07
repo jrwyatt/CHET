@@ -1,0 +1,35 @@
+﻿<Window x:Class="CHET_WPF.ChildLogin"
+            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+            xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+            xmlns:local="clr-namespace:CHET_WPF"
+            mc:Ignorable="d" 
+            d:DesignHeight="450" d:DesignWidth="800"
+            MinHeight="450"
+            MinWidth="800"
+            MaxHeight="450"
+            MaxWidth="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <Image Source="/chaseNraes.png" Margin="0,50,0,50" Grid.RowSpan="2"/>
+
+        <TextBlock Text="Hi! Please click on who you are" Grid.Row="0" FontFamily="Berlin Sans FB" FontSize="48" HorizontalAlignment="Center" Margin="0,35,0,0"/>
+
+        <Button x:Name="ButtonHome" HorizontalAlignment="Left" Height="43" Margin="700,256,0,0" Grid.Row="1" VerticalAlignment="Top" Width="63" Click="ButtonHome_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="/button_home.png"/>
+            </Button.Background>
+            
+        </Button>
+        <Button x:Name="Button_Lillian" Content="Button" HorizontalAlignment="Left" Margin="382,117,0,0" Grid.Row="1" VerticalAlignment="Top" RenderTransformOrigin="0.467,0.423" Height="136" Foreground="{x:Null}" BorderBrush="{x:Null}" Background="{x:Null}" Click="Button_Lillian_Click"/>
+        <Button x:Name="Button_Jeffery" Content="Button" HorizontalAlignment="Left" Margin="324,129,0,0" Grid.Row="1" VerticalAlignment="Top" Height="124" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}" Click="Button_Jeffery_Click"/>
+    </Grid>
+</Window>

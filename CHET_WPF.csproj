@@ -1,0 +1,50 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="button_Go.jpg" />
+    <None Remove="button_home.png" />
+    <None Remove="chaseNraes.png" />
+    <None Remove="Chet_words.png" />
+    <None Remove="emotionalsuccess.png" />
+    <None Remove="emotiondef1.png" />
+    <None Remove="kids.png" />
+    <None Remove="minifacesborder.png" />
+    <None Remove="parents.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="button_Go.jpg" />
+    <Resource Include="button_home.png" />
+    <Resource Include="chaseNraes.png" />
+    <Resource Include="Chet_words.png" />
+    <Resource Include="emotionalsuccess.png" />
+    <Resource Include="emotiondef1.png" />
+    <Resource Include="kids.png" />
+    <Resource Include="minifacesborder.png" />
+    <Resource Include="parents.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
