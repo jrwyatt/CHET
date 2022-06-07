@@ -1,0 +1,58 @@
+Lillian logged in: 
+Hurt , 6/7/2022 4:47:41 AM
+System.Windows.Controls.Button: If you don't feel comfortable talking to the person yourself, you can always talk to mommy or daddy.
+Felt better
+Loved , 6/7/2022 4:48:07 AM
+System.Windows.Controls.Button: Mommy Hug! Or Daddy Hug! Group Hug! Spread the love!
+Needed another attempt. 
+System.Windows.Controls.Button: Thank God for all you have!
+Felt better
+Jeffery logged in: 
+Scared , 6/7/2022 4:48:53 AM
+System.Windows.Controls.Button: Ask a friend to stay with you and help
+Felt better
+Mad , 6/7/2022 4:49:18 AM
+System.Windows.Controls.Button: Count to 15 and take 3 deep breaths after.
+Needed another attempt. 
+System.Windows.Controls.Button: Change activities or people you're with.
+Needed another attempt. 
+System.Windows.Controls.Button: Alone time activity: medidate, read a book, draw a picture, color a picture until you are calm.
+Needed another attempt. 
+System.Windows.Controls.Button: Take a nap.
+Needed another attempt. 
+System.Windows.Controls.Button: Once calm, tell person who made you mad specifically what they did.
+Needed another attempt. 
+System.Windows.Controls.Button: Take a nap.
+Felt better
+Lillian logged in: 
+Happy , 6/7/2022 4:54:30 AM
+System.Windows.Controls.Button: Do something kind for someone else
+Felt better
+Sad , 6/7/2022 4:54:48 AM
+System.Windows.Controls.Button: Take a nap!
+Felt better
+Hurt , 6/7/2022 4:55:03 AM
+Mad , 6/7/2022 4:55:19 AM
+System.Windows.Controls.Button: Pray for patience to not get so mad
+Felt better
+Jealous , 6/7/2022 4:55:33 AM
+System.Windows.Controls.Button: If it's something someone has good skills at, work hard on developing your skills! Ask them how they got so good. Celebrate their success and yours will come
+Felt better
+Scared , 6/7/2022 4:55:59 AM
+System.Windows.Controls.Button: Say to yourself: 'I got this! I can do this!' and GO!! YOU GOT THIS, KIDDO!
+Needed another attempt. 
+System.Windows.Controls.Button: Ask a friend to stay with you and help
+Felt better
+Shy , 6/7/2022 4:56:24 AM
+Loved , 6/7/2022 4:56:36 AM
+System.Windows.Controls.Button: Mommy Hug! Or Daddy Hug! Group Hug! Spread the love!
+Needed another attempt. 
+System.Windows.Controls.Button: Thank God for all you have!
+Felt better
+Proud , 6/7/2022 4:56:55 AM
+System.Windows.Controls.Button: Tell Mommy and Daddy! We want to celebrate with you!
+Felt better
+Jeffery logged in: 
+Happy , 6/7/2022 4:58:33 AM
+System.Windows.Controls.Button: Do something kind for someone else
+Felt better

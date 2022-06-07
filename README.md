@@ -1,2 +1,1 @@
-# CHET
-WPF application for children's emotions
+CHET_WPF
